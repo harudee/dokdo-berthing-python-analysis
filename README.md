@@ -1,6 +1,7 @@
 # TRAVEL2DOKDO😎
 
 독도 여행지수 접안정보 분석 jupyter notebook/ data-set
+독도 여행페이지 만들기 spring legacy/ mysql
 
 
 # 01. DATA 수집
